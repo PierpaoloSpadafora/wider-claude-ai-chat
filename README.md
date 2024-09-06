@@ -16,12 +16,7 @@ Wider Claude.ai Chat is a Greasemonkey user script that increases the maximum wi
 
 ## Contributions
 
-If the css changes or the script stops working and you want to contribute to fixing it then:
-
-1. Fork the repository on GitHub.
-2. Clone the repository to your local machine.
-3. Make the necessary changes.
-4. Submit a pull request describing the changes you have made.
+If the css changes or the script stops working and you want to contribute to fixing it, you are welcome.
 
 ## License
 
