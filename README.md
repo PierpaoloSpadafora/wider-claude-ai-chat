@@ -26,4 +26,4 @@ This project is distributed under the MIT license. See the [LICENSE](LICENSE) fi
 
 Author: Pierpaolo Spadafora  
 Homepage: [GitHub](https://github.com/PierpaoloSpadafora/)  
-Website: [https://www.pierpaolospadafora.it](https://www.pierpaolospadafora.it)
+Website: [https://www.pierpaolospadafora.it](https://www.pierpaolospadafora.com)
