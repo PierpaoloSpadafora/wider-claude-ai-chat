@@ -6,6 +6,14 @@
 
 Wider Claude.ai Chat is a Greasemonkey user script that increases the maximum width of the central window on [Claude.ai](https://claude.ai). to make conversations more readable and accessible.
 
+## Before
+
+![alt text](before.png)
+
+## After
+
+![alt text](after.png)
+
 ## Installation
 
 1. Install a browser extension that supports user scripts, such as [Greasemonkey](https://www.greasespot.net/).
